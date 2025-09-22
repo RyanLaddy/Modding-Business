@@ -1,4 +1,4 @@
-Modding
+# 3DS XL Mods Website
 
 This repository contains the **black/white/grey themed website** for the 3DS XL modding hub.
 
